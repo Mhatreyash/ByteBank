@@ -54,9 +54,8 @@ If you see a version number (e.g., `11.0.12` or higher), you are ready to go.
     Open your terminal and clone this repository to your local machine:
 
     ```sh
-    git clone https://github.com/YOUR_USERNAME/ByteBank.git
+    git clone https://github.com/Mhatreyash/ByteBank.git
     ```
-    (Replace `YOUR_USERNAME` with your actual GitHub username).
 
 2.  **Navigate to the Project Directory**
 
